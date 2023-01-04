@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Projects
-#permalink: /projects/
+title: ZIL
+#permalink: /zil/
 ---
 _Nothing to see here right now._
