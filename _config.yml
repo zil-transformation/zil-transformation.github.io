@@ -35,8 +35,7 @@ github_username: zil-transformation
 theme: minima
 
 header_pages:
-  - zil.md
-  - inform.md
+  - games.md
 
 #plugins:
 #  - jekyll-feed
